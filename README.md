@@ -1,4 +1,8 @@
-### Hi I'm Arthur-Delacroix
+![](https://raw.github.com/Arthur-Delacroix/Arthur-Delacroix/master/Banner,jpg)
+
+----
+
+Hi! I'm Arthur-Delacroix!
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=true)
 
