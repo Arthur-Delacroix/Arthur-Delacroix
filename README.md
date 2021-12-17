@@ -5,7 +5,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true)
 
-[![](https://activity-graph.herokuapp.com/graph?username=Arthur-Delacroix&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Arthur-Delacroix&theme=github-light)]()
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=true)
 
