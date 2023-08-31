@@ -47,24 +47,6 @@
 
 ---
 
-   <!-- light mode -->
-   <img src="https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_1.png" id="light-mode-image" alt="Header 1" />
+![GitHub-Mark](./Pic/header_2.png#gh-light-mode-only)
 
-   <!-- dark mode -->
-   <img src="https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_2.png" id="dark-mode-image" alt="Header 2" />
-
-   <style>
-   /* light mode */
-   @media (prefers-color-scheme: light) {
-     #profile-image {
-       content: url(https://example.com/header1.png);
-     }
-   }
-
-   /* dark mode */
-   @media (prefers-color-scheme: dark) {
-     #profile-image {
-       content: url(https://example.com/header2.png);
-     }
-   }
-   </style>
+![GitHub-Mark-Light](./Pic/header_1.png#gh-dark-mode-only)
