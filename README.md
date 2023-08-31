@@ -32,4 +32,9 @@
 ---
 
 ![](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true)#gh-light-mode-only)
-![](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true)#gh-dark-mode-only)
+
+![](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true)#gh-dark-mode-only)
+
+![GitHub-Mark](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true#gh-light-mode-only)
+
+![GitHub-Mark-Light](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true#gh-dark-mode-only)
