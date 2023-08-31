@@ -47,27 +47,24 @@
 
 ---
 
-<!-- placeholder -->
-   <img src="" id="profile-image" alt="Profile Image" />
-
    <!-- light mode -->
    <img src="https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_1.png" id="light-mode-image" alt="Header 1" />
 
    <!-- dark mode -->
    <img src="https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_2.png" id="dark-mode-image" alt="Header 2" />
 
-   <script>
-   const profileImage = document.getElementById("profile-image");
-   const lightModeImage = document.getElementById("light-mode-image");
-   const darkModeImage = document.getElementById("dark-mode-image");
-
-   // 获取当前主题模式
-   const currentTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-
-   // 根据主题模式设置显示的图片
-   if (currentTheme === "dark") {
-     profileImage.src = darkModeImage.src;
-   } else {
-     profileImage.src = lightModeImage.src;
+   <style>
+   /* light mode */
+   @media (prefers-color-scheme: light) {
+     #profile-image {
+       content: url(https://example.com/header1.png);
+     }
    }
-   </script>
+
+   /* dark mode */
+   @media (prefers-color-scheme: dark) {
+     #profile-image {
+       content: url(https://example.com/header2.png);
+     }
+   }
+   </style>
