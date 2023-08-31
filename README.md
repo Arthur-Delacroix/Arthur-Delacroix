@@ -36,6 +36,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true" align="center">
 </picture>
 
-![GitHub Streak](https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_2.png#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=false)
 
-![GitHub Streak](https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_1.png#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=false)
+
+
+![GitHub Streak](https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_2.png)
+
+![GitHub Streak](https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_1.png)
+
+   <style>
+   img[src*="github-readme-streak-stats"] {
+     filter: invert(100%);
+   }
+   </style>
