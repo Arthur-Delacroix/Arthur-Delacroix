@@ -12,6 +12,13 @@
   [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=github-dark#gh-dark-mode-only)](https://git.io/streak-stats)
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light#gh-light-mode-only" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark#gh-dark-mode-only" alt="GitHub Streak" />
+  </a>
+</p>
+
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=true)
