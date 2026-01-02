@@ -13,10 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light#gh-light-mode-only" alt="GitHub Streak" />
-    <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark#gh-dark-mode-only" alt="GitHub Streak" />
-  </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light" />
+      <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light" alt="GitHub Streak" />
+    </picture>
 </p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
