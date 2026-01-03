@@ -3,24 +3,16 @@
 ![release](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS) ![release](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
 
+<!--Streak Stats 图表  https://github.com/DenverCoder1/github-readme-streak-stats-->
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true"/>
+  </picture>
 </p>
 
-<p align="center">
-  [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=github-light#gh-light-mode-only)](https://git.io/streak-stats)
-  [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=github-dark#gh-dark-mode-only)](https://git.io/streak-stats)
-</p>
-
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light" />
-      <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light" alt="GitHub Streak" />
-    </picture>
-</p>
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light)
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=true)
 
