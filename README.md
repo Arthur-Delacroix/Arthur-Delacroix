@@ -38,6 +38,45 @@ Streak Stats 提交摘要
   </picture>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+        />
+        <img 
+          src="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+          alt="GitHub Streak"
+          height="195"
+        />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00"
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00"
+        />
+        <img 
+          src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00"
+          alt="GitHub Stats"
+          height="195"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <!-- 
 <p align="center">
   <picture>
