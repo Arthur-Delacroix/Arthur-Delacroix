@@ -3,42 +3,8 @@
 ![release](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS) ![release](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
 
-<!--
-Streak Stats 提交摘要
-仓库地址 https://github.com/DenverCoder1/github-readme-streak-stats
-自定义网站 https://streak-stats.demolab.com/demo/
--->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
-    <img src="https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"/>
-  </picture>
-</p>
 
-
-<!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"/>
-  </picture>
-</p>
-
-<!-- 
-整体提交摘要 https://github.com/anuraghazra/github-readme-stats
-这个网站中的很多配色都不能用了，需要一个一个试
--->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&&show_icons=true&bg_color=FFFFFF00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&&show_icons=true&bg_color=FFFFFF00" />
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&&show_icons=true&bg_color=FFFFFF00"/>
-  </picture>
-</p>
-
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <picture>
@@ -76,6 +42,19 @@ Streak Stats 提交摘要
     </td>
   </tr>
 </table>
+
+<!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"/>
+  </picture>
+</p>
+
+
+
+
 
 <!-- 
 <p align="center">
@@ -131,4 +110,17 @@ https://github.com/rzashakeri/beautify-github-profile
 https://github.com/Ileriayo/markdown-badges
 https://github.com/topics/github-profile
 https://github.com/lowlighter/metrics
+-->
+
+<!--
+Streak Stats 提交摘要
+仓库地址 https://github.com/DenverCoder1/github-readme-streak-stats
+自定义网站 https://streak-stats.demolab.com/demo/
+https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00
+-->
+
+<!-- 
+整体提交摘要 https://github.com/anuraghazra/github-readme-stats
+这个网站中的很多配色都不能用了，需要一个一个试
+https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&&show_icons=true&bg_color=FFFFFF00
 -->
