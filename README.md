@@ -4,6 +4,21 @@
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
 
 
+<picture>
+  <!-- 默认深色模式 (Dark Default) -->
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+  >
+  <!-- 默认浅色模式 (Light Default) & 降级兜底 -->
+  <img 
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+    style="width: 100%; max-width: 100%; height: auto; display: block;"
+  >
+</picture>
+
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
@@ -110,6 +125,14 @@ https://github.com/rzashakeri/beautify-github-profile
 https://github.com/Ileriayo/markdown-badges
 https://github.com/topics/github-profile
 https://github.com/lowlighter/metrics
+
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/lowlighter/metrics
+https://metrics.lecoq.io/embed
+https://github.com/DenverCoder1/readme-typing-svg
+https://github.com/DenverCoder1/github-readme-streak-stats
+
+
 -->
 
 <!--
