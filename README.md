@@ -5,15 +5,27 @@
 
 
 <picture>
-  <!-- 默认深色模式 (Dark Default) -->
   <source 
     media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
   >
-  <!-- 默认浅色模式 (Light Default) & 降级兜底 -->
   <img 
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+    style="width: 100%; max-width: 100%; height: auto; display: block;"
+  >
+</picture>
+
+<picture>
+  <!-- 默认深色模式 (Dark Default) -->
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=github-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00"
+  >
+  <!-- 默认浅色模式 (Light Default) & 降级兜底 -->
+  <img 
+    alt="GitHub Stats"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=github-light&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00"
     style="width: 100%; max-width: 100%; height: auto; display: block;"
   >
 </picture>
