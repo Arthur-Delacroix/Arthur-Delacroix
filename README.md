@@ -26,7 +26,7 @@
    style="width: 100%; max-width: 100%; height: auto; display: block;"/>
  </picture>
 
-
+<!--
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
@@ -50,37 +50,22 @@
     style="width: 100%; max-width: 100%; height: auto; display: block;"
   >
 </picture>
+-->
 
 
-
-<picture>
-  <!-- 柔和深色 Soft Dark -->
-  <source media="(prefers-color-scheme: dark) and (prefers-contrast: less)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=nord&column=-1&no-bg=true&no-frame=true">
-  <!-- 标准深色 -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=nord&column=-1&no-bg=true&no-frame=true">
-  <!-- 浅色兜底 -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=nord&column=-1&no-bg=true&no-frame=true"
-    alt="GitHub Trophy"
-    style="width: 100%; height: auto; display: block; margin: 0;"
-  >
-</picture>
-
-<div style="display: flex; gap: 12px; width: 100%;">
+<div style="display: flex; width: 100%;">
   <div style="flex: 1;">
     <img 
       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" 
       alt="GitHub Stats"
-      style="width: 100%; height: auto;"
+      style="width: 150%; height: 200;"
     />
   </div>
   <div style="flex: 1;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
       alt="Top Languages"
-      style="width: 100%; height: auto;"
+      style="width: 100%; height: 200;"
     />
   </div>
 </div>
