@@ -4,15 +4,28 @@
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
-  >
-  <img
-    src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00"
-    style="width: 100%; max-width: 100%; height: auto; display: block;"
-  >
+   <source
+   media="(prefers-color-scheme: dark)"
+   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
+   <source
+   media="(prefers-color-scheme: light)"
+   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
+   <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+   style="width: 100%; height: auto; display: block;"/>
 </picture>
+
+<!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization -->
+<picture>
+   <source
+   media="(prefers-color-scheme: dark)"
+   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
+   <source
+   media="(prefers-color-scheme: light)"
+   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"
+   style="width: 100%; max-width: 100%; height: auto; display: block;"/>
+ </picture>
+
 
 <picture>
   <source 
@@ -25,16 +38,7 @@
   >
 </picture>
 
-<!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization 
-<picture>
-   <source
-   media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
-   <source
-   media="(prefers-color-scheme: light)"
-   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"/>
- </picture>-->
+
 
 <picture>
   <source 
@@ -47,21 +51,6 @@
   >
 </picture>
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 8px 12px;">单元格内容 1</td>
-    <td style="border: none; padding: 8px 12px;">单元格内容 2</td>
-    <td style="border: none; padding: 8px 12px;">单元格内容 3</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 8px 12px;">单元格内容 4</td>
-    <td style="border: none; padding: 8px 12px;">单元格内容 5</td>
-    <td style="border: none; padding: 8px 12px;">单元格内容 6</td>
-  </tr>
-</table>
-
-
-![](https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=nord&column=-1&no-bg=true&no-frame=true)
 
 
 <picture>
@@ -78,6 +67,24 @@
     style="width: 100%; height: auto; display: block; margin: 0;"
   >
 </picture>
+
+<div style="display: flex; gap: 12px; width: 100%;">
+  <div style="flex: 1;">
+    <img 
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" 
+      alt="GitHub Stats"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+  <div style="flex: 1;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
+      alt="Top Languages"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+</div>
+
 
 
 <!--
@@ -131,4 +138,8 @@ https://streak-stats.demolab.com?user=Arthur-Delacroix&theme=github-dark&hide_bo
 
 整体提交摘要 https://github.com/anuraghazra/github-readme-stats
 这个网站中的很多配色都不能用了，需要一个一个试
+
+奖杯展示，应该是不能用了，很久没显示出来过了
+![](https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=nord&column=-1&no-bg=true&no-frame=true)
+32432
 -->
