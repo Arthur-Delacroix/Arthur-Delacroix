@@ -53,23 +53,24 @@
 -->
 
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 1;">
-    <img 
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" 
-      alt="GitHub Stats"
-      style="width: 150%; height: 200;"
-    />
-  </div>
-  <div style="flex: 1;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
-      alt="Top Languages"
-      style="width: 100%; height: 200;"
-    />
-  </div>
-</div>
-
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img 
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" 
+        width="100%"
+        height="auto"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=Compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
+        width="100%"
+        height="auto"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <!--
