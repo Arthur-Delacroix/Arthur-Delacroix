@@ -6,11 +6,11 @@
 <picture>
    <source
    media="(prefers-color-scheme: dark)"
-   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
+   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00" />
    <source
    media="(prefers-color-scheme: light)"
-   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&exclude_days=Mon&background=FFFFFF00" />
-   <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&exclude_days=Mon&background=FFFFFF00"
+   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&background=FFFFFF00" />
+   <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00"
    style="width: 100%; height: auto; display: block;"/>
 </picture>
 
@@ -53,7 +53,7 @@
 -->
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
       <img 
