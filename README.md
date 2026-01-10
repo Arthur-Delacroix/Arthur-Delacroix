@@ -3,16 +3,18 @@
 ![release](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS) ![release](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
 
-<picture>
-   <source
-   media="(prefers-color-scheme: dark)"
-   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00" />
-   <source
-   media="(prefers-color-scheme: light)"
-   srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&background=FFFFFF00" />
-   <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00"
-   style="width: 100%; height: auto; display: block;"/>
-</picture>
+<div align="center">
+  <picture>
+     <source
+     media="(prefers-color-scheme: dark)"
+     srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00" />
+     <source
+     media="(prefers-color-scheme: light)"
+     srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&background=FFFFFF00" />
+     <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00"
+     style="width: 70%; height: auto;"/>
+  </picture>
+</div>
 
 <!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization -->
 <picture>
@@ -52,6 +54,8 @@
 </picture>
 -->
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00)
+
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -64,7 +68,7 @@
     </td>
     <td width="50%" valign="top">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=Compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
         width="100%"
         height="auto"
       />
