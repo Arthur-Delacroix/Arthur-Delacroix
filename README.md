@@ -54,10 +54,12 @@
 </picture>
 -->
 
+![](https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=flat&column=3&margin-h=15&margin-w=15&&no-bg=true&no-frame=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00)
 
 
-<table style="border: none; border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
       <img 
@@ -75,6 +77,24 @@
     </td>
   </tr>
 </table>
+
+<div style="width: 100%;">
+  <div style="float: left; width: 50%;">
+    <img 
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" 
+      alt="GitHub Stats"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+  <div style="float: left; width: 50%;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" 
+      alt="Top Languages"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+  <div style="clear: both;"></div>
+</div>
 
 
 <!--
