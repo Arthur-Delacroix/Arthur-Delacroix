@@ -35,7 +35,6 @@
 
 
 
-<div style="width: 100%;">
   <div style="float: left; width: 50%;">
     <div align="center">
       <picture>
@@ -46,7 +45,7 @@
     </div>
   </div>
 
-  <div style="float: left; width: 50%;">
+  <div style="float: right; width: 30%;">
     <div align="center">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" />
@@ -55,9 +54,6 @@
       </picture>
     </div>
   </div>
-
-  <div style="clear: both;"></div>
-</div>
 
 
 
