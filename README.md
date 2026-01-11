@@ -12,21 +12,66 @@
      media="(prefers-color-scheme: light)"
      srcset="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-light&hide_border=true&background=FFFFFF00" />
      <img src="https://streak-stats.demolab.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true&background=FFFFFF00"
-     style="width: 70%; height: auto;"/>
+     style="width: 61.8%; height: auto;"/>
   </picture>
 </div>
 
 <!-- Activity Graph 提交曲线图 https://github.com/ashutosh00710/github-readme-activity-graph#customization -->
-<picture>
-   <source
-   media="(prefers-color-scheme: dark)"
-   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
-   <source
-   media="(prefers-color-scheme: light)"
-   srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"
-   style="width: 100%; max-width: 100%; height: auto; display: block;"/>
- </picture>
+<div align="center">
+  <picture>
+    <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-compact&hide_border=true" />
+    <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light&hide_border=true"
+    style="width: 100%; max-width: 100%; height: auto; display: block;"/>
+  </picture>
+</div>
+
+
+
+
+
+
+<div style="width: 100%;">
+  <div style="float: left; width: 50%;">
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" style="width: 100%; height: auto;"/>
+      </picture>
+    </div>
+  </div>
+
+  <div style="float: left; width: 50%;">
+    <div align="center">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" />
+         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue&hide_border=true&bg_color=FFFFFF00" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue&hide_border=true&bg_color=FFFFFF00" style="width: 100%; height: auto;"/>
+      </picture>
+    </div>
+  </div>
+
+  <div style="clear: both;"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 <picture>
@@ -52,9 +97,9 @@
     style="width: 100%; max-width: 100%; height: auto; display: block;"
   >
 </picture>
--->
 
-![](https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=flat&column=3&margin-h=15&margin-w=15&&no-bg=true&no-frame=true)
+
+![](https://github-profile-trophy.vercel.app/?username=Arthur-Delacroix&theme=flat&column=3&margin-h=15&margin-w=15&&no-bg=true&no-frame=true)12321
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00)
 
@@ -95,15 +140,13 @@
   </div>
   <div style="clear: both;"></div>
 </div>
-
+-->
 
 <!--
 ![release](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS) ![release](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
  ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=C++) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=Bilibili3&logoColor=white)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true)
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Delacroix&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=true)
 
@@ -120,10 +163,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=github-dark&hide_border=true)
 
 
-
-![GitHub-Mark](./Pic/header_2.png#gh-light-mode-only)
-
-![GitHub-Mark-Light](./Pic/header_1.png#gh-dark-mode-only)
 
 https://simpleicons.org/
 https://leviarista.github.io/github-profile-header-generator/
