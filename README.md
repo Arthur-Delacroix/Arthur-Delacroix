@@ -36,24 +36,22 @@
 
 
   <div style="float: left; width: 50%;">
-    <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue-dark&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" />
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" style="width: 100%; height: auto;"/>
       </picture>
     </div>
-  </div>
+
 
   <div style="float: right; width: 30%;">
-    <div align="center">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" />
          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue&hide_border=true&bg_color=FFFFFF00" />
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue&hide_border=true&bg_color=FFFFFF00" style="width: 100%; height: auto;"/>
       </picture>
     </div>
-  </div>
+
 
 
 
