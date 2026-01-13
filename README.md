@@ -38,24 +38,10 @@
 
 
 
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
-<table>
-  <tbody>
-    <tr>
-      <td>Column One</td>
-      <td>Column One</td>
-    </tr>
-    <tr>
-      <td>Content of column one</td>
-      <td>Content of column two</td>
-    </tr>
-  </tbody>
-</table>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i2.hdslb.com/bfs/archive/87a5d03581e326f4f818cab3212ce471d1f6a064.png" width="49%">
+  <img src="https://i2.hdslb.com/bfs/archive/87a5d03581e326f4f818cab3212ce471d1f6a064.png" width="49%">
+</div>
 
 
 
