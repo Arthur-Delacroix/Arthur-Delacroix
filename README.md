@@ -32,13 +32,29 @@
   <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue-dark&hide_border=true&bg_color=FFFFFF00" />
      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue&hide_border=true&bg_color=FFFFFF00" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue&hide_border=true&bg_color=FFFFFF00" style="width: 60%; height: auto;"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue&hide_border=true&bg_color=FFFFFF00" style="width: 30%; height: auto;"/>
   </picture>
 </div>
 
 
 
-
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+<table>
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
