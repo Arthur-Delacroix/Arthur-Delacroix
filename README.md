@@ -39,8 +39,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://i2.hdslb.com/bfs/archive/87a5d03581e326f4f818cab3212ce471d1f6a064.png" width="49%">
-  <img src="https://i2.hdslb.com/bfs/archive/87a5d03581e326f4f818cab3212ce471d1f6a064.png" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=donut&theme=vue&hide_border=true&bg_color=FFFFFF00" width="49%">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arthur-Delacroix&theme=vue&hide_border=true&hide_title=true&count_private=false&show_icons=true&bg_color=FFFFFF00" width="49%">
 </div>
 
 
