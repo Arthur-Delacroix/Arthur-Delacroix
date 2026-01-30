@@ -1,7 +1,82 @@
 ![](https://raw.githubusercontent.com/Arthur-Delacroix/Arthur-Delacroix/master/Pic/header_2.png)
 
-![release](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS) ![release](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
- ![release](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity) ![release](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine) ![release](https://img.shields.io/badge/-C%20Sharp-green.svg?color=42B883&logo=C-Sharp) ![release](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus) ![release](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white) ![release](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white) ![release](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
+![](https://img.shields.io/badge/iOS-green.svg?color=42B883&logo=iOS)
+![](https://img.shields.io/badge/Android-green.svg?color=42B883&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/-Unity-green.svg?color=42B883&logo=Unity)
+![](https://img.shields.io/badge/-Unreal%20Engine-green.svg?color=42B883&logo=Unreal-Engine)
+![](https://img.shields.io/badge/-godot-green.svg?color=42B883&logo=godotengine&logoColor=white)
+![](https://img.shields.io/badge/-.Net-green.svg?color=42B883&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/-C++-green.svg?color=42B883&logo=cplusplus)
+![](https://img.shields.io/badge/-Python-green.svg?color=42B883&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Blender-green.svg?color=42B883&logo=Blender&logoColor=white)
+![](https://img.shields.io/badge/-Bilibili-green.svg?color=42B883&logo=bilibili&logoColor=white)
+![](https://img.shields.io/badge/-docker-green.svg?color=42B883&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-mongodb-green.svg?color=42B883&logo=mongodb&logoColor=white)
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-3DDC84?style=flat-square&labelColor=333&logo=android&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&labelColor=eee&logo=android&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&labelColor=333&logo=unity&logoColor=black#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&labelColor=eee&logo=unity&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&labelColor=333&logo=unrealengine&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&labelColor=eee&logo=unrealengine&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Godot-478CBF?style=flat-square&labelColor=333&logo=godotengine&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&labelColor=eee&logo=godotengine&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-512BD4?style=flat-square&labelColor=333&logo=dotnet&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&labelColor=eee&logo=dotnet&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=333&logo=cplusplus&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=eee&logo=cplusplus&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=333&logo=python&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=eee&logo=python&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blender-F5792A?style=flat-square&labelColor=333&logo=blender&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&labelColor=eee&logo=blender&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bilibili-00AEEC?style=flat-square&labelColor=333&logo=bilibili&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Bilibili-00AEEC?style=flat-square&labelColor=eee&logo=bilibili&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=333&logo=docker&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=eee&logo=docker&logoColor=white#gh-light-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-589636?style=flat-square&labelColor=333&logo=mongodb&logoColor=white#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/MongoDB-589636?style=flat-square&labelColor=eee&logo=mongodb&logoColor=white#gh-light-mode-only">
+</picture>
+
+
 
 <div align="center">
   <picture>
@@ -32,15 +107,6 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Delacroix&layout=compact&theme=vue&hide_border=true&bg_color=FFFFFF00" style="width: 35%; height: auto;"/>
   </picture>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
