@@ -17,63 +17,63 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/iOS-888888?style=flat-square&logo=apple&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/iOS-555555?style=flat-square&logo=apple&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-3DDC84?style=flat-square&labelColor=333&logo=android&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&labelColor=eee&logo=android&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-888888?style=flat-square&logo=android&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Android-555555?style=flat-square&logo=android&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&labelColor=333&logo=unity&logoColor=black#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&labelColor=eee&logo=unity&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-888888?style=flat-square&logo=unity&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Unity-555555?style=flat-square&logo=unity&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&labelColor=333&logo=unrealengine&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&labelColor=eee&logo=unrealengine&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unreal_Engine-888888?style=flat-square&logo=unrealengine&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Unreal_Engine-555555?style=flat-square&logo=unrealengine&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Godot-478CBF?style=flat-square&labelColor=333&logo=godotengine&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&labelColor=eee&logo=godotengine&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Godot-888888?style=flat-square&logo=godotengine&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Godot-555555?style=flat-square&logo=godotengine&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-512BD4?style=flat-square&labelColor=333&logo=dotnet&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&labelColor=eee&logo=dotnet&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-888888?style=flat-square&logo=dotnet&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/.NET-555555?style=flat-square&logo=dotnet&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=333&logo=cplusplus&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=eee&logo=cplusplus&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-888888?style=flat-square&logo=cplusplus&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=333&logo=python&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=eee&logo=python&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-888888?style=flat-square&logo=python&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blender-F5792A?style=flat-square&labelColor=333&logo=blender&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&labelColor=eee&logo=blender&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blender-888888?style=flat-square&logo=blender&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Blender-555555?style=flat-square&logo=blender&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bilibili-00AEEC?style=flat-square&labelColor=333&logo=bilibili&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Bilibili-00AEEC?style=flat-square&labelColor=eee&logo=bilibili&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bilibili-888888?style=flat-square&logo=bilibili&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Bilibili-555555?style=flat-square&logo=bilibili&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=333&logo=docker&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=eee&logo=docker&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-888888?style=flat-square&logo=docker&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-589636?style=flat-square&labelColor=333&logo=mongodb&logoColor=white#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/MongoDB-589636?style=flat-square&labelColor=eee&logo=mongodb&logoColor=white#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-888888?style=flat-square&logo=mongodb&logoColor=white&labelColor=888888#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=white&labelColor=555555#gh-light-mode-only">
 </picture>
 
 
